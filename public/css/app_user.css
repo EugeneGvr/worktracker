@@ -1,0 +1,14 @@
+.day {
+  position: relative;
+}
+
+.day:hover {
+  background: #F5F5F5;
+}
+.not_this_month {
+  background: #F0F0F0;
+}
+
+.day input[type="checkbox"] {
+  display: none;
+}
